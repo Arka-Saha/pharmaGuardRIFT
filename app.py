@@ -15,7 +15,7 @@ parser = VCFParse
 vcfparse = VCFParse
 
 ##
-debug_status = False
+debug_status = True
 ##
 
 st.set_page_config(page_title="PharmaGuard", layout="wide")
