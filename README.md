@@ -1,6 +1,8 @@
 # PharmaGuard
 ## PHARMACOGENOMIC RISK PREDICTION SYSTEM
 
+Deployment Link: https://pharmaguardrift.streamlit.app
+
 ## 🧠 Problem Overview
 
 Adverse drug reactions contribute to large numbers of preventable hospitalizations and deaths. Many reactions are avoidable through **pharmacogenomics (PGx)**: analyzing how genetic variants influence drug metabolism and response.
