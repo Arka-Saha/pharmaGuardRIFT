@@ -1,0 +1,28 @@
+{
+  "patient_id": "PATIENT 101",
+  "drug": "WARFARIN",
+  "timestamp": "56789",
+  "risk_assessment": {
+    "risk_label": "Undetermined",
+    "confidence_score": 0.0,
+    "severity": "none"
+  },
+  "pharmacogenomic_profile": {
+    "primary_gene": "CYP2D6",
+    "diplotype": "Unknown",
+    "phenotype": "Unknown",
+    "detected_variants": [
+      {
+        "rsid": "rsXXXX"
+      }
+    ]
+  },
+  "clinical_recommendation": "Due to insufficient genetic information to determine the CYP2D6 phenotype, pharmacogenomic-guided therapy for codeine cannot be established. Clinical decisions regarding codeine should be made based on conventional dosing guidelines, individual patient response, and close monitoring for efficacy and adverse drug reactions. If pharmacogenomic guidance is deemed critical for safe and effective pain management, consider comprehensive CYP2D6 genotyping or alternative analgesics that do not rely on CYP2D6 metabolism. For other drugs like warfarin, where CYP2C9 and other pharmacogenes are relevant, similar limitations apply due to insufficient genetic data, necessitating reliance on standard clinical protocols and therapeutic drug monitoring.",
+  "llm_generated_explanation": {
+    "summary": "Genetic data provided for CYP2D6 was insufficient to determine the patient's diplotype or predicted metabolizer phenotype. The variant 'microsat1' (GTCT/G) is not a standard, primary marker for assigning CYP2D6 star alleles according to clinical pharmacogenomics guidelines (e.g., CPIC, PharmGKB). Similarly, for other pharmacogenes (CYP2C19, CYP2C9, SLCO1B1, TPMT, DPYD), the provided genetic information was either absent or not sufficient to determine a definitive diplotype and phenotype.",
+    "recommendations": "Therefore, specific pharmacogenomic recommendations for drugs like codeine (metabolized by CYP2D6) or warfarin (metabolized by CYP2C9) cannot be provided at this time based on this limited genetic information."
+  },
+  "quality_metrics": {
+    "vcf_parsing_success": true
+  }
+}
