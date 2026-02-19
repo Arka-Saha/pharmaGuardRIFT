@@ -1,6 +1,5 @@
 import streamlit as st
 import json
-import pyperclip
 from vcf_parser import VCFParse
 
 from vcf_parser import VCFParse
