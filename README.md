@@ -2,6 +2,7 @@
 ## PHARMACOGENOMIC RISK PREDICTION SYSTEM
 
 Deployment Link: https://pharmaguardrift.streamlit.app
+LinkedIN: https://www.linkedin.com/posts/arka-saha2707_rift2026-pharmaguard-pharmacogenomics-activity-7430347792575004672-r_SI?utm_source=share&utm_medium=member_desktop&rcm=ACoAADYKDZYBIq8M8GNaA_0zxj_5xm4-5a_utDM
 
 ## 🧠 Problem Overview
 
